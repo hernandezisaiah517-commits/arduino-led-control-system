@@ -1,4 +1,5 @@
-LED Control System
+📘 README
+💡 LED Control System
 📖 Overview
 
 This project uses an Arduino to control LED patterns such as blinking, fading, or sequencing. It introduces GPIO usage and timing functions in embedded programming.
